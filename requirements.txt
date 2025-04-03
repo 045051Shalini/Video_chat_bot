@@ -7,3 +7,9 @@ langchain==0.0.96
 PyPDF2
 chromadb
 pytube
+yt-dlp
+ffmpeg
+langchain-community
+transformers sentence-transformers
+tf-keras
+langchain-groq
