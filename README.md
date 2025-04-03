@@ -22,7 +22,7 @@ The **Video Chat Bot** is a local application built using **Youtube** and **Lang
 ## 🔧 How to Run the App Locally
 
 1️⃣ **Install Dependencies**
-Download the newapp.py from this repository
+Download the newchatapp.py from this repository
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
