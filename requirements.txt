@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+requests
+pytube
+yt-dlp
+langchain
+langchain-community
+langchain-groq
+huggingface-hub
+torch
+numpy
+pandas
+assemblyai
