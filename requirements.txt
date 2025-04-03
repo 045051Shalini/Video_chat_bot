@@ -2,8 +2,8 @@ streamlit
 python-dotenv
 requests
 pytube
-yt-dlp==2024.03.10
-langchain==0.0.96
+yt-dlp
+langchain
 langchain-community
 langchain-groq
 huggingface-hub
