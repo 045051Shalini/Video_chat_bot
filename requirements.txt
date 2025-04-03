@@ -3,7 +3,7 @@ python-dotenv
 requests
 pytube
 yt-dlp
-langchain
+langchain==0.0.96
 langchain-community
 langchain-groq
 huggingface-hub
@@ -11,3 +11,11 @@ torch
 numpy
 pandas
 assemblyai
+openai
+llama-index==0.4.15
+PyPDF2
+chromadb
+ffmpeg
+transformers
+sentence-transformers
+tf-keras
