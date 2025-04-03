@@ -16,8 +16,8 @@ from langchain_groq import ChatGroq
 
 # Load environment variables
 load_dotenv()
-ASSEMBLY_AI_KEY = os.getenv('75e4f4fd6233425f8712812fb6e4f3ed')
-GROQ_API_KEY = os.getenv('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')
+ASSEMBLY_AI_KEY = os.getenv('put your api key here')
+GROQ_API_KEY = os.getenv('put your api key here')
 
 # AssemblyAI API details
 ASSEMBLY_AI_URL = "https://api.assemblyai.com/v2"
